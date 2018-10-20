@@ -1,0 +1,24 @@
+body {
+	margin-top: 30px;
+	background: #333;
+	color: #fff;
+}
+
+h1 {
+	font-size: 2.2rem;
+	font-weight: 300;
+}
+
+footer {
+	height: 40px;
+	background-color: #000;
+}
+
+footer p {
+	margin-bottom: 0;
+	padding: 8px 0;
+}
+
+main {
+	min-height: calc(100vh - 70px);
+}
